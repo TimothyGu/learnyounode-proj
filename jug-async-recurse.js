@@ -20,8 +20,8 @@
  * variable to keep track of the responses, this forces blocking by calling
  * the function again with a new url after it is done.
  *
- * Theoretically, this might be slower, as every request is serialized. But IMO
- * it is easier to write, and is shorter.
+ * This is much slower than jug-async.js, as every request is serialized (as
+ * much as 50% slower). But IMO it is easier to write, and is shorter.
  */
 
 // Required modules
