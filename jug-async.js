@@ -26,6 +26,9 @@
  *
  * As a result, you must check if all HTTP gets are done before printing all
  * the responses.
+ *
+ * Also, check out jug-async-recurse.js if you haven't, which uses an
+ * alternative solution to this problem, that is shorter but might be slower.
  */
 
 // Required modules
