@@ -4,8 +4,19 @@ learnyounode solutions
 My solutions to the learnyounode workshopper. Not guaranteed to be safe for
 production use!
 
+Contributing
+------------
+
+ALL contributions that make the code easier to read or more robust against are
+welcome, as long as it doesn't make the code harder to read for a Node.js
+beginner (like me).
+
+You can submit pull request on the right of this page.
+
 License & Disclaimer
 --------------------
+
+Read especially careful the third paragraph following ("the software ...").
 
 Copyright (c) 2014, Tiancheng "Timothy" Gu
 
