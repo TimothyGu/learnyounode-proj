@@ -4,8 +4,8 @@ learnyounode solutions
 These are solutions to the learnyounode workshopper. They are written by
 [@TimothyGu](https://github.org/TimothyGu) on his endeavour to Node.js
 mastery. It is meant to help Node.js beginners for the PIxEL Clubs (and
-myself). Not guaranteed to be safe for production (i.e. multi-core servers,
-VHS, etc.) use!
+himself). Not guaranteed to be safe for production (i.e. multi-core servers,
+VPS, etc.) use!
 
 Contributing
 ------------
@@ -19,7 +19,8 @@ You can submit pull request on the right of this page.
 License & Disclaimer
 --------------------
 
-Read especially careful the third paragraph following ("the software ...").
+This project is licensed under the ISC license, reproduced in every source file
+and below:
 
 Copyright (c) 2014, Tiancheng "Timothy" Gu
 
