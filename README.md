@@ -42,8 +42,8 @@ in the solution directory.
 License & Disclaimer
 --------------------
 
-This project is licensed under the ISC license, reproduced in every source file
-and below:
+This project is licensed under the ISC license, reproduced in every source file,
+the `LICENSE` file, and below:
 
 Copyright (c) 2014, Tiancheng "Timothy" Gu
 
