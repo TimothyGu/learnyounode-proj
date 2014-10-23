@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Solution to "Time server" exercise -- plain version
  * Copyright (c) 2014, Tiancheng "Timothy" Gu

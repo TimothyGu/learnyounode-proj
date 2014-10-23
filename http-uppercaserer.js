@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Solution to "HTTP Uppercaserer" exercise -- through2-map version
  * Copyright (c) 2014, Tiancheng "Timothy" Gu

@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Solution to "Juggling Async" exercise -- recursive version
  * Copyright (c) 2014, Tiancheng "Timothy" Gu

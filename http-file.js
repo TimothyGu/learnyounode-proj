@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Solution to "HTTP File Server" exercise
  * Copyright (c) 2014, Tiancheng "Timothy" Gu
