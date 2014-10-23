@@ -1,8 +1,11 @@
 learnyounode solutions
 ======================
 
-My solutions to the learnyounode workshopper. Not guaranteed to be safe for
-production use!
+These are solutions to the learnyounode workshopper. They are written by
+[@TimothyGu](https://github.org/TimothyGu) on his endeavour to Node.js
+mastery. It is meant to help Node.js beginners for the PIxEL Clubs (and
+myself). Not guaranteed to be safe for production (i.e. multi-core servers,
+VHS, etc.) use!
 
 Contributing
 ------------
