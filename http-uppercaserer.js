@@ -24,8 +24,10 @@
  *   `func()` to all elements of the Array.
  * - through2-map works pretty much the same way, except Stream.map(func)
  *   executes `func()` to all **chunks** of the **Stream**.
- * - It is not feasible to write a program using req.on('data') because
- *   we have to keep track of request size and terminate after it ends.
+ *
+ * There is a simpler way to do this, with the old-style events API of http.
+ * However, be sure to look over this (slower and more complex) solution
+ * jumping to http-uppercaserer-ol-style.js.
  */
 
 // We'll be using http and through2-map.
