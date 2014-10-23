@@ -16,6 +16,29 @@ beginner (like me).
 
 You can submit pull request on the right of this page.
 
+Troubleshooting
+---------------
+
+If you encounter errors like this:
+
+    Error: Cannot find module 'foobar'
+        at Function.Module._resolveFilename (module.js:338:15)
+        at Function.Module._load (module.js:280:25)
+        at Module.require (module.js:364:17)
+        at require (module.js:380:17)
+        at Object.<anonymous> (/path/to/solution.js:29:16)
+        at Module._compile (module.js:456:26)
+        at Object.Module._extensions..js (module.js:474:10)
+        at Module.load (module.js:356:32)
+        at Function.Module._load (module.js:312:12)
+        at Function.Module.runMain (module.js:497:10)
+
+Try installing the specified module by doing:
+
+    npm install foobar
+
+in the solution directory.
+
 License & Disclaimer
 --------------------
 
