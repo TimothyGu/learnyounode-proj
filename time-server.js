@@ -55,8 +55,10 @@ var server = net.createServer(function (socket) {
      * How this works:
      * 1. Adding a String of a bunch of zeros to the beginning of the
      *    already auto-converted integer String.
+     *    E.g. monthStr = '00' + '1' = '001'
      * 2. Strip away unneeded zeros with a substr() that specifies the number
-     *    of total digits desired
+     *    of total digits desired.
+     *    E.g. monthStr = '001'.substr(-2) = '01'
      */
     var yearStr  = ('0000' + year ).substr(-4)
     var monthStr = ('00'   + month).substr(-2)
